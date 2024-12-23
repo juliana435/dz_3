@@ -41,6 +41,6 @@ python3 main.py < input.txt
 2. Убедитесь, что тестовые файлы находятся в рабочем каталоге.
 
 ## Скриншоты работы программы
-![program.png](C:\Users\Юлиана\Desktop\уник/program.png)
+![program.png](schreenshots/program.png)
 ![test.png](schreenshots/test.png)
 ---
